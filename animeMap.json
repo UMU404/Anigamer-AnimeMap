@@ -14,7 +14,7 @@
     { "start": 12, "end": 23, "name": "無職転生 Ⅱ ～異世界行ったら本気だす～ 第2クール" }
   ],
   "無職轉生～到了異世界就拿出真本事 第二季 [1]": {
-    "name": "無職転生 Ⅱ ～異世界行ったら本気だす～", "epOffset": 1
+    "name": "無職転生 Ⅱ ～異世界行ったら本気だす～", "epOffset": -1
   },
   "進擊的巨人 第三季": [
     { "start": 1, "end": 12, "name": "進撃の巨人３" },
@@ -38,7 +38,8 @@
   ],
   "Dr.STONE 新石紀 第四季": [
     { "start": 1, "end": 12, "name": "Dr.STONE SCIENCE FUTURE" },
-    { "start": 13, "end": 24, "name": "Dr.STONE SCIENCE FUTURE 2クール" }
+    { "start": 13, "end": 24, "name": "Dr.STONE SCIENCE FUTURE 2クール" },
+    { "start": 25, "end": 36, "name": "Dr.STONE SCIENCE FUTURE 3クール" }
   ],
   "銀砂糖師與黑妖精～sugar apple fairy tale～": [
     { "start": 1, "end": 12, "name": "シュガーアップル・フェアリーテイル" },
@@ -75,6 +76,14 @@
   "Fate/strange Fake": [
       { "start": 1, "end": 1 },
       { "start": 2, "end": 13, "timeOffset": 4.0, "epOffset": 0 }
+  ],
+  "Re：從零開始的異世界生活 第二季": [
+      { "start": 1, "end": 13, "name": "Re:ゼロから始める異世界生活 2nd Season"},
+      { "start": 14, "end": 25, "name": "Re:ゼロから始める異世界生活 2nd Season Part 2" }
+  ],
+  "加速世界": [
+      { "start": 1, "end": 1, "timeOffset": 10.0},
+      { "start": 2, "end": 13, "epOffset": 0}
   ],
   "香格里拉・開拓異境～糞作獵手挑戰神作～": { "name": "シャングリラ・フロンティア" },
   "香格里拉・開拓異境～糞作獵手挑戰神作～ 第二季": { "name": "シャングリラ・フロンティア 2nd season" },
@@ -132,7 +141,7 @@
   "Buddy Daddies 殺手奶爸": { "name": "Buddy Daddies", "timeOffset": 4.0 },
   "TRIGUN STAMPEDE": { "name": "TRIGUN STAMPEDE" },
   "名偵探柯南 灰原哀物語～黑鐵的神祕列車～": { "name": "名探偵コナン 黒鉄の魚影" },
-  "刀劍神域 Alicization War of Underworld -THE LAST SEASON-": { "name": "ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)" },
+  "刀劍神域 Alicization War of Underworld -THE LAST SEASON-": { "name": "ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)", "preferTV": true, "epOffset": 24 },
   "刀劍神域劇場版－Progressive－陰沉薄暮的詼諧曲": { "name": "劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ" },
   "給不滅的你 第二季": { "name": "不滅のあなたへ Season 2" },
   "給不滅的你 第三季": { "name": "不滅のあなたへ Season 3" },
@@ -186,7 +195,6 @@
   "Fate/zero 第二季": { "name": "Fate/Zero 2ndシーズン" },
   "Fate/stay night": { "name": "Fate/stay night" },
   "Re：從零開始的異世界生活 新編集版": { "name": "Re:ゼロから始める異世界生活" },
-  "Re：從零開始的異世界生活 第二季": { "name": "Re:ゼロから始める異世界生活 2nd Season" },
   "Re：從零開始的異世界生活 第三季": { "name": "Re:ゼロから始める異世界生活 3rd Season" },
   "Re：從零開始的異世界生活 Memory Snow": { "name": "Re:ゼロから始める異世界生活 OVAs" },
   "Re：從零開始的異世界生活 冰結之絆": { "name": "Re:ゼロから始める異世界生活 OVAs" },
@@ -265,6 +273,23 @@
   "銀魂 3 年 Z 班銀八老師": { "name": "3年Z組銀八先生" },
    "LAZARUS 拉撒路": { "name": "ラザロ", "timeOffset": 4.0 },
   "歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期": { "name": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期" },
+  "轉生之後的我變成了龍蛋～目標是世界最強～": { "name":"転生したらドラゴンの卵だった", "timeOffset": -1.25 },
+  "複製品的我也會談戀愛": { "name":"レプリカだって、恋をする" },
+  "關於我轉生變成史萊姆這檔事 第四季": { "timeOffset": 9.8 },
+  "小書痴的下剋上 為了成為圖書管理員不擇手段！領主的養女":  { "name": "本好きの下剋上 領主の養女" },
+  "杖與劍的魔劍譚 Season 2": { "name": "杖と剣のウィストリア Season2"},
+  "異世界悠閒農家 2": { "name": "異世界のんびり農家２" },
+  "終末起點 第 2 季": { "name": "最強の王様、二度目の人生は 何をする? 第2期", "epOffset": 12},
+  "吞噬魔物的冒險者": { "name": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~" },
+  "JOJO 的奇妙冒險": { "name": " ジョジョの奇妙な冒険 (TV)", "preferTV": true},
+  "JOJO 的奇妙冒險 星塵遠征軍": {"preferTV": true},
+  "JOJO 的奇妙冒險 星塵遠征軍 埃及篇": {"preferTV": true},
+  "JOJO 的奇妙冒險 不滅鑽石": {"preferTV": true},
+  "JOJO 的奇妙冒險 黃金之風": {"preferTV": true},
+  "刀劍神域 Sword Art Online 第二季": {"preferTV": true},
+  "刀劍神域 Alicization": {"preferTV": true},
+  "刀劍神域 Alicization War of Underworld": {"preferTV": true},
+  "刀劍神域 Sword Art Online": { "timeOffset": 0 },
   "Lycoris Recoil 莉可麗絲": { "timeOffset": 0 },
   "孤獨搖滾！": { "timeOffset": 4.0 },
   "小智是女孩啦！": { "timeOffset": 4.0 },
@@ -318,5 +343,11 @@
   "春夏秋冬代行者 春之舞": { "timeOffset": 4.0 },
   "加油！中村同學！！": { "timeOffset": 4.0 },
   "主播女孩重度依賴": { "timeOffset": 4.0 },
-  "黃泉使者": { "timeOffset": 4.0 }
+  "黃泉使者": { "timeOffset": 4.0 },
+  "DDDD 惡魔的破壞": { "start": 0, "end": 17, "epOffset": 1 },
+  "女騎士成為蠻族新娘": { "timeOffset": 4.5 },
+  "魔王的女兒太溫柔了!!": { "timeOffset": 4.8 },
+  "29 歲單身中堅冒險家的日常": { "timeOffset": 4.8 },
+  "非人學生與厭世教師": { "timeOffset": 4.8 },
+    "上伊那牡丹，醉姿如百合": { "timeOffset": 4.6 }
 }
