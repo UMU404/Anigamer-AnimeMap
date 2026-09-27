@@ -1,11 +1,4 @@
 {
-  "鋼之鍊金術師 BROTHERHOOD": [
-    { "start": 1,  "end": 13, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 1 },
-    { "start": 14, "end": 26, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 2 },
-    { "start": 27, "end": 39, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 3 },
-    { "start": 40, "end": 52, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 4 },
-    { "start": 53, "end": 64, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 5 }
-  ],
   "【我推的孩子】": [
     { "start": 1, "end": 11, "name": "【推しの子】" },
     { "start": 12, "end": 24, "name": "【推しの子】第2期" },
