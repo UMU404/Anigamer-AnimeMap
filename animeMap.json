@@ -1,4 +1,11 @@
 {
+  "鋼之鍊金術師 BROTHERHOOD": [
+    { "start": 1,  "end": 13, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 1 },
+    { "start": 14, "end": 26, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 2 },
+    { "start": 27, "end": 39, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 3 },
+    { "start": 40, "end": 52, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 4 },
+    { "start": 53, "end": 64, "name": "鋼の錬金術師 FULLMETAL ALCHEMIST", "season": 5 }
+  ],
   "【我推的孩子】": [
     { "start": 1, "end": 11, "name": "【推しの子】" },
     { "start": 12, "end": 24, "name": "【推しの子】第2期" },
@@ -9,11 +16,11 @@
     { "start": 12, "end": 23, "name": "無職転生 ～異世界行ったら本気だす～ 第2クール" },
     { "start": 24, "end": 24, "name": "無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐" }
   ],
-  "無職轉生～到了異世界就拿出真本事 第二季": [
-    { "start": 1, "end": 11, "name": "無職転生 Ⅱ ～異世界行ったら本気だす～" },
-    { "start": 12, "end": 23, "name": "無職転生 Ⅱ ～異世界行ったら本気だす～ 第2クール" }
+  "無職轉生～到了異世界就拿出真本事～第二季": [
+    { "start": 1, "end": 12, "name": "無職転生 Ⅱ ～異世界行ったら本気だす～", "epOffset": 0 },
+    { "start": 13, "end": 24, "name": "無職転生 Ⅱ ～異世界行ったら本気だす～ 第2クール", "epOffset": 0 }
   ],
-  "無職轉生～到了異世界就拿出真本事 第二季 [1]": {
+  "無職轉生～到了異世界就拿出真本事～第二季 [1]": {
     "name": "無職転生 Ⅱ ～異世界行ったら本気だす～", "epOffset": -1
   },
   "進擊的巨人 第三季": [
